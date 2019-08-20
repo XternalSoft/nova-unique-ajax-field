@@ -12,7 +12,7 @@ This field validates for uniqueness while typing through an AJAX request, instea
 ![Demo](https://raw.githubusercontent.com/epartment/nova-unique-ajax-field/master/docs/demo.gif)
 
 ### Installation
-Install through composer: `composer require epartment/nova-unique-ajax-field`
+Install through composer: `composer require rik43/nova-unique-ajax-field`
 
 ### Usage
 
